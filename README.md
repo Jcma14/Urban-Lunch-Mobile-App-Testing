@@ -31,7 +31,6 @@ Validate core user flows so that a user can:
 - **Emulator:** Android Studio — used Samsung Galaxy S25+ profile (Android 16.0)  
 - **Type of testing:** Manual testing (exploratory + scripted) on emulator; log inspection via Logcat.  
 - **Test coverage:** Positive, negative and boundary scenarios (e.g., multiple restaurants, max items).  
-- **Artifacts:** Test cases, screenshots, Logcat snippets and bug reports.
 
 
 ## Key Results
