@@ -56,7 +56,16 @@ Validate core user flows so that a user can:
 
 
 ## Test Evidence
-- `evidence/screenshots/` – screenshots of tested flows (selection, confirmation, tracking, error states).  
-- `evidence/logs/` – selected Logcat snippets used for debugging (timestamps, exception traces).  
-- `evidence/test-cases/` – CSV/Markdown test case list (inputs, steps, expected results, actual results).  
-- `evidence/bug-reports/` – links to issues created (or local files) with steps to reproduce and screenshots.
+### Bugs Reported (JIRA) 
+![JIRA Bug Report](assets/Jira.png)
+
+### Android Studio - Logcat 
+![Android Studio](assets/Android-studio.png)
+
+### Urban.Lunch Mobile App
+<p align="center">
+  <img src="assets/Urban-lunch-screenshot-1.png" alt="Evidence 1" width="45%" style="margin: 5px; border-radius: 6px;">
+  <img src="assets/Urban-lunch-screenshot-2.png" alt="Evidence 2" width="45%" style="margin: 5px; border-radius: 6px;">
+</p>
+
+
