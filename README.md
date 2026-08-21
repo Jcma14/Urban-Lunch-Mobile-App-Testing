@@ -1,17 +1,4 @@
-<!-- ===== HEADER BANNER ===== -->
-<p align="center">
-  <img src="assets/Urban-lunch-banner.png" alt="Urban.Lunch Banner" style="max-width:100%; height:auto; border-radius:6px;">
-</p>
-
-# <p align="center">Urban.Lunch <sub> Mobile App</sub></p>
-
-<p align="center">
-  <!-- Badges -->
-  <img alt="Platform" src="https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge&logo=android">
-  <img alt="Testing" src="https://img.shields.io/badge/Testing-Manual%20%26%20Emulator-yellow?style=for-the-badge">
-  <img alt="Status" src="https://img.shields.io/badge/Version-1.0-lightgrey?style=for-the-badge">
-</p>
-
+# Urban.Lunch — Mobile App Testing
 
 ## Overview
 **Urban.Lunch** is an Android mobile app that lets users order food from multiple restaurants and pick a single pickup location where all orders are collected.  
@@ -47,13 +34,11 @@ Validate core user flows so that a user can:
 
 
 ## Tools & Skills
-<span>
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Mobile%20Testing-1AB26B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Manual%20Testing-E0711B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 
+- **Android Studio** — emulator setup and Logcat inspection
+- **Jira** — defect reporting and tracking
+- **Mobile testing** — manual, exploratory and scripted, on emulator
+- **Test planning** — positive, negative and boundary scenario design
 
 ## Test Evidence
 ### Bugs Reported (JIRA) 
